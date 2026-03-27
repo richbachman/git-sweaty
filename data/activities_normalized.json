@@ -23528,5 +23528,18 @@
     "start_date_local": "2026-03-26T07:40:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 35756.9,
+    "elevation_gain": 147.0,
+    "id": "17877007292",
+    "moving_time": 3611.0,
+    "name": "Zwift - TrainerRoad: Homers Nose",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-27T07:48:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
