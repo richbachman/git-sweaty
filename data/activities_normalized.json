@@ -23567,5 +23567,18 @@
     "start_date_local": "2026-03-29T12:54:20Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-03-31",
+    "distance": 36719.9,
+    "elevation_gain": 150.0,
+    "id": "17924350845",
+    "moving_time": 3611.0,
+    "name": "Zwift - TrainerRoad: Tunnabora",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-31T06:37:30Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
