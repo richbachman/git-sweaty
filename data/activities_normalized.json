@@ -23580,5 +23580,31 @@
     "start_date_local": "2026-03-31T06:37:30Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-02",
+    "distance": 57078.6,
+    "elevation_gain": 79.0,
+    "id": "17956517761",
+    "moving_time": 7099.0,
+    "name": "AntiAITherapy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-02T17:51:27Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-03",
+    "distance": 34440.5,
+    "elevation_gain": 83.0,
+    "id": "17962640669",
+    "moving_time": 4553.0,
+    "name": "WindyCoffeeRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-03T06:48:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
