@@ -23606,5 +23606,18 @@
     "start_date_local": "2026-04-03T06:48:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-04",
+    "distance": 35793.5,
+    "elevation_gain": 89.0,
+    "id": "17979418638",
+    "moving_time": 4556.0,
+    "name": "StillWindy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-04T13:10:10Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
