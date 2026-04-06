@@ -23619,5 +23619,18 @@
     "start_date_local": "2026-04-04T13:10:10Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-05",
+    "distance": 81602.0,
+    "elevation_gain": 246.0,
+    "id": "17990461972",
+    "moving_time": 10020.0,
+    "name": "EmptyRoads",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-05T09:13:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
