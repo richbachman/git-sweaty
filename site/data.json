@@ -16361,6 +16361,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17990461972",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 7,
+      "name": "Zwift - TrainerRoad: Carson -1",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18012948502",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32253,11 +32262,20 @@
           "distance": 36719.9,
           "elevation_gain": 150.0,
           "moving_time": 3611.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18012948502"
+          ],
+          "count": 1,
+          "distance": 37152.8,
+          "elevation_gain": 150.0,
+          "moving_time": 3621.0
         }
       }
     }
   },
-  "generated_at": "2026-04-06T15:52:43.502616+00:00",
+  "generated_at": "2026-04-07T16:11:58.193655+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
