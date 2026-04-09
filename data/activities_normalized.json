@@ -23658,5 +23658,18 @@
     "start_date_local": "2026-04-08T07:36:28Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 33260.4,
+    "elevation_gain": 134.0,
+    "id": "18040841319",
+    "moving_time": 3616.0,
+    "name": "Zwift - TrainerRoad: Lobuche",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-09T07:26:20Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
