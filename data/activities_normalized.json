@@ -23684,5 +23684,18 @@
     "start_date_local": "2026-04-10T07:04:18Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-11",
+    "distance": 35947.9,
+    "elevation_gain": 67.0,
+    "id": "18067831036",
+    "moving_time": 4559.0,
+    "name": "BusyZooLoop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-11T08:44:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
