@@ -23697,5 +23697,18 @@
     "start_date_local": "2026-04-11T08:44:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-12",
+    "distance": 71052.4,
+    "elevation_gain": 152.0,
+    "id": "18083397971",
+    "moving_time": 8739.0,
+    "name": "Wet>Trainer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-12T10:17:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
