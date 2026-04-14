@@ -23710,5 +23710,18 @@
     "start_date_local": "2026-04-12T10:17:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 35685.7,
+    "elevation_gain": 146.0,
+    "id": "18104631677",
+    "moving_time": 3613.0,
+    "name": "Zwift - TrainerRoad: Bald",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-14T07:33:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

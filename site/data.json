@@ -16415,6 +16415,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18083397971",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 7,
+      "name": "Zwift - TrainerRoad: Bald",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18104631677",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32352,6 +32361,15 @@
           "distance": 33260.4,
           "elevation_gain": 134.0,
           "moving_time": 3616.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18104631677"
+          ],
+          "count": 1,
+          "distance": 35685.7,
+          "elevation_gain": 146.0,
+          "moving_time": 3613.0
         }
       },
       "WeightTraining": {
@@ -32367,7 +32385,7 @@
       }
     }
   },
-  "generated_at": "2026-04-13T16:16:59.004667+00:00",
+  "generated_at": "2026-04-14T16:10:27.331150+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
