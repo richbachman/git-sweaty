@@ -23736,5 +23736,31 @@
     "start_date_local": "2026-04-15T07:35:38Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 29596.7,
+    "elevation_gain": 84.0,
+    "id": "18127004248",
+    "moving_time": 4592.0,
+    "name": "Wizards",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-15T19:55:50Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 37000.3,
+    "elevation_gain": 58.0,
+    "id": "18131822266",
+    "moving_time": 3613.0,
+    "name": "Zwift - TrainerRoad: Daemon",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-16T07:24:43Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
