@@ -23762,5 +23762,18 @@
     "start_date_local": "2026-04-16T07:24:43Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-17",
+    "distance": 34332.8,
+    "elevation_gain": 57.0,
+    "id": "18145229761",
+    "moving_time": 4606.0,
+    "name": "Coffee",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-17T06:46:36Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
