@@ -23775,5 +23775,18 @@
     "start_date_local": "2026-04-17T06:46:36Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 193889.0,
+    "elevation_gain": 853.0,
+    "id": "18177278003",
+    "moving_time": 25323.0,
+    "name": "RedBull&Rabies",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T06:52:23Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

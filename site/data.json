@@ -16460,6 +16460,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18145229761",
       "year": 2026
+    },
+    {
+      "date": "2026-04-19",
+      "hour": 6,
+      "name": "RedBull&Rabies",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18177278003",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -31899,6 +31908,15 @@
           "distance": 34332.8,
           "elevation_gain": 57.0,
           "moving_time": 4606.0
+        },
+        "2026-04-19": {
+          "activity_ids": [
+            "18177278003"
+          ],
+          "count": 1,
+          "distance": 193889.0,
+          "elevation_gain": 853.0,
+          "moving_time": 25323.0
         }
       },
       "VirtualRide": {
@@ -32457,7 +32475,7 @@
       }
     }
   },
-  "generated_at": "2026-04-19T15:40:28.637617+00:00",
+  "generated_at": "2026-04-20T16:14:22.535499+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
