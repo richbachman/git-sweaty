@@ -23788,5 +23788,18 @@
     "start_date_local": "2026-04-19T06:52:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 35458.3,
+    "elevation_gain": 147.0,
+    "id": "18197650326",
+    "moving_time": 3612.0,
+    "name": "Zwift - TrainerRoad: Leavitt -5",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-21T07:31:24Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
