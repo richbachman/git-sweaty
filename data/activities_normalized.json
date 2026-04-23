@@ -23814,5 +23814,18 @@
     "start_date_local": "2026-04-22T07:45:08Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-22",
+    "distance": 29257.3,
+    "elevation_gain": 77.0,
+    "id": "18220630658",
+    "moving_time": 4460.0,
+    "name": "WizSpin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-22T19:50:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
