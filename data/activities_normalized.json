@@ -23866,5 +23866,18 @@
     "start_date_local": "2026-04-25T09:42:11Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 50010.4,
+    "elevation_gain": 105.0,
+    "id": "18268959811",
+    "moving_time": 6368.0,
+    "name": "RowYaBoat",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-26T09:37:46Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
