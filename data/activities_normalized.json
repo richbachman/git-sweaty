@@ -23918,5 +23918,31 @@
     "start_date_local": "2026-04-30T17:18:03Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 30453.8,
+    "elevation_gain": 340.8,
+    "id": "18336035302",
+    "moving_time": 6433.0,
+    "name": "EarningMyGreenMeritBadge",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-01T09:48:26Z",
+    "type": "MountainBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 37697.6,
+    "elevation_gain": 356.0,
+    "id": "18339619100",
+    "moving_time": 6661.0,
+    "name": "RaphaOpeningDayGroupRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-01T16:02:45Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
