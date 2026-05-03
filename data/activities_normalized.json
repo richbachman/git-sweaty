@@ -23944,5 +23944,31 @@
     "start_date_local": "2026-05-01T16:02:45Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 66105.8,
+    "elevation_gain": 577.0,
+    "id": "18349748658",
+    "moving_time": 8717.0,
+    "name": "GravelRoadMixer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-02T10:03:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-02",
+    "distance": 23734.4,
+    "elevation_gain": 279.0,
+    "id": "18351814631",
+    "moving_time": 5366.0,
+    "name": "MoreGreen",
+    "raw_activity_type": "Ride",
+    "raw_type": "MountainBikeRide",
+    "start_date_local": "2026-05-02T15:05:49Z",
+    "type": "MountainBikeRide",
+    "year": 2026
   }
 ]
