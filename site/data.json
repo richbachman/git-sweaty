@@ -16595,6 +16595,15 @@
       "type": "MountainBikeRide",
       "url": "https://www.strava.com/activities/18351814631",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 10,
+      "name": "NWAGravelerGroupRide",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18363608693",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32124,6 +32133,15 @@
           "distance": 66105.8,
           "elevation_gain": 577.0,
           "moving_time": 8717.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18363608693"
+          ],
+          "count": 1,
+          "distance": 68199.3,
+          "elevation_gain": 640.0,
+          "moving_time": 9174.0
         }
       },
       "VirtualRide": {
@@ -32727,7 +32745,7 @@
       }
     }
   },
-  "generated_at": "2026-05-03T15:51:57.999585+00:00",
+  "generated_at": "2026-05-04T16:49:32.209945+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

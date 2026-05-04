@@ -23970,5 +23970,18 @@
     "start_date_local": "2026-05-02T15:05:49Z",
     "type": "MountainBikeRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 68199.3,
+    "elevation_gain": 640.0,
+    "id": "18363608693",
+    "moving_time": 9174.0,
+    "name": "NWAGravelerGroupRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-03T10:00:02Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
