@@ -24009,5 +24009,31 @@
     "start_date_local": "2026-05-06T07:47:39Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 35413.1,
+    "elevation_gain": 65.0,
+    "id": "18419524898",
+    "moving_time": 4469.0,
+    "name": "ZooLoop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-07T18:22:49Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 34447.2,
+    "elevation_gain": 35.0,
+    "id": "18425366195",
+    "moving_time": 4723.0,
+    "name": "CoffeeExpress",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-08T06:46:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
