@@ -24035,5 +24035,31 @@
     "start_date_local": "2026-05-08T06:46:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 128848.0,
+    "elevation_gain": 936.0,
+    "id": "18443457456",
+    "moving_time": 17674.0,
+    "name": "KellysFlatTire",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-09T07:31:18Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 32396.9,
+    "elevation_gain": 99.0,
+    "id": "18454539262",
+    "moving_time": 3736.0,
+    "name": "Zwift - Pacer Group Ride with Taylor",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-10T09:48:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
