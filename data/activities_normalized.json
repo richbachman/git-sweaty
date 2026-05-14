@@ -24087,5 +24087,18 @@
     "start_date_local": "2026-05-13T07:28:30Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 45470.8,
+    "elevation_gain": 116.0,
+    "id": "18498923009",
+    "moving_time": 6863.0,
+    "name": "SouthRoute",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-13T19:42:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
