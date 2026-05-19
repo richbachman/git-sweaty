@@ -24152,5 +24152,18 @@
     "start_date_local": "2026-05-17T09:55:44Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 42846.6,
+    "elevation_gain": 163.0,
+    "id": "18568307112",
+    "moving_time": 4211.0,
+    "name": "Zwift - Sweet Spot Anchor",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-19T07:44:12Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
