@@ -24178,5 +24178,31 @@
     "start_date_local": "2026-05-20T07:35:10Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-23",
+    "distance": 261206.0,
+    "elevation_gain": 483.3,
+    "id": "18627195001",
+    "moving_time": 33390.0,
+    "name": "TourDeCaseys",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-23T07:22:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 32698.1,
+    "elevation_gain": 40.0,
+    "id": "18637145362",
+    "moving_time": 5077.0,
+    "name": "LilSpin",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-24T09:10:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
