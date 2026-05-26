@@ -24204,5 +24204,18 @@
     "start_date_local": "2026-05-24T09:10:50Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-26",
+    "distance": 33636.0,
+    "elevation_gain": 135.0,
+    "id": "18661453248",
+    "moving_time": 3610.0,
+    "name": "Zwift - 60min Riders Choice",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-05-26T07:57:05Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
