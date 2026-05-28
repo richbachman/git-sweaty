@@ -24230,5 +24230,18 @@
     "start_date_local": "2026-05-27T07:31:26Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 45462.4,
+    "elevation_gain": 71.0,
+    "id": "18683064122",
+    "moving_time": 6506.0,
+    "name": "HCGGDropRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-27T18:14:12Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
