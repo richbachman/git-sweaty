@@ -16784,6 +16784,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18683064122",
       "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 6,
+      "name": "HumidCoffee",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18702622969",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32403,6 +32412,15 @@
           "distance": 45462.4,
           "elevation_gain": 71.0,
           "moving_time": 6506.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18702622969"
+          ],
+          "count": 1,
+          "distance": 33027.6,
+          "elevation_gain": 33.0,
+          "moving_time": 4394.0
         }
       },
       "VirtualRide": {
@@ -33105,7 +33123,7 @@
       }
     }
   },
-  "generated_at": "2026-05-28T18:13:23.938731+00:00",
+  "generated_at": "2026-05-29T18:13:51.623781+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
