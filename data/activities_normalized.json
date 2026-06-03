@@ -24282,5 +24282,31 @@
     "start_date_local": "2026-05-31T09:34:08Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 36373.0,
+    "elevation_gain": 88.0,
+    "id": "18762869432",
+    "moving_time": 4545.0,
+    "name": "TrackedByCoros",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-02T16:59:06Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18769885884",
+    "moving_time": 2810.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-03T07:38:45Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
