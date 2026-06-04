@@ -16829,6 +16829,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18769885884",
       "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 18,
+      "name": "AllTheThings",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18778629305",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 7,
+      "name": "AngryDrivers",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18783915867",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32066,6 +32084,24 @@
           "distance": 36373.0,
           "elevation_gain": 88.0,
           "moving_time": 4545.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18778629305"
+          ],
+          "count": 1,
+          "distance": 44529.0,
+          "elevation_gain": 93.0,
+          "moving_time": 6556.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18783915867"
+          ],
+          "count": 1,
+          "distance": 36156.0,
+          "elevation_gain": 91.0,
+          "moving_time": 4578.0
         }
       },
       "MountainBikeRide": {
@@ -33197,7 +33233,7 @@
       }
     }
   },
-  "generated_at": "2026-06-03T18:46:45.796997+00:00",
+  "generated_at": "2026-06-04T17:47:11.931062+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

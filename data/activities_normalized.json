@@ -24308,5 +24308,31 @@
     "start_date_local": "2026-06-03T07:38:45Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-03",
+    "distance": 44529.0,
+    "elevation_gain": 93.0,
+    "id": "18778629305",
+    "moving_time": 6556.0,
+    "name": "AllTheThings",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-03T18:55:46Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-04",
+    "distance": 36156.0,
+    "elevation_gain": 91.0,
+    "id": "18783915867",
+    "moving_time": 4578.0,
+    "name": "AngryDrivers",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-04T07:17:37Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
