@@ -16856,6 +16856,33 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/18797035612",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 9,
+      "name": "NeedToFuelBetter",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18813403175",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 9,
+      "name": "DryThenNotDry",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/18826954704",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18836598001",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32120,6 +32147,24 @@
           "distance": 34685.0,
           "elevation_gain": 60.0,
           "moving_time": 4945.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18813403175"
+          ],
+          "count": 1,
+          "distance": 81608.6,
+          "elevation_gain": 220.0,
+          "moving_time": 9757.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18826954704"
+          ],
+          "count": 1,
+          "distance": 44555.0,
+          "elevation_gain": 114.0,
+          "moving_time": 6019.0
         }
       },
       "MountainBikeRide": {
@@ -33247,11 +33292,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2810.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18836598001"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2810.0
         }
       }
     }
   },
-  "generated_at": "2026-06-06T16:08:15.099761+00:00",
+  "generated_at": "2026-06-08T17:57:23.353765+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

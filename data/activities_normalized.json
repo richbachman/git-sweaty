@@ -24347,5 +24347,44 @@
     "start_date_local": "2026-06-05T06:44:25Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-06",
+    "distance": 81608.6,
+    "elevation_gain": 220.0,
+    "id": "18813403175",
+    "moving_time": 9757.0,
+    "name": "NeedToFuelBetter",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-06T09:23:16Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 44555.0,
+    "elevation_gain": 114.0,
+    "id": "18826954704",
+    "moving_time": 6019.0,
+    "name": "DryThenNotDry",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-07T09:40:48Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18836598001",
+    "moving_time": 2810.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T07:38:10Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
