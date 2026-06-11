@@ -24399,5 +24399,31 @@
     "start_date_local": "2026-06-09T07:30:26Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 43269.1,
+    "elevation_gain": 132.0,
+    "id": "18872571173",
+    "moving_time": 5902.0,
+    "name": "Hot \ud83e\udd75",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-10T18:03:56Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 34364.2,
+    "elevation_gain": 135.0,
+    "id": "18878137137",
+    "moving_time": 3615.0,
+    "name": "Zwift - Diesel Distance Builder",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-11T07:34:38Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
