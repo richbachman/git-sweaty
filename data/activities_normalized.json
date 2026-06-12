@@ -24425,5 +24425,18 @@
     "start_date_local": "2026-06-11T07:34:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-12",
+    "distance": 34742.0,
+    "elevation_gain": 49.0,
+    "id": "18890888149",
+    "moving_time": 4802.0,
+    "name": "SlightDetour",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-12T06:46:40Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
