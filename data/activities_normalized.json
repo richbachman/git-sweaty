@@ -24451,5 +24451,31 @@
     "start_date_local": "2026-06-13T09:12:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 91033.3,
+    "elevation_gain": 412.0,
+    "id": "18920200847",
+    "moving_time": 10925.0,
+    "name": "3DeerAndAJoe",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-06-14T08:41:18Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18929101814",
+    "moving_time": 2607.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-15T07:39:15Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
