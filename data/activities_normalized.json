@@ -24477,5 +24477,18 @@
     "start_date_local": "2026-06-15T07:39:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 35628.1,
+    "elevation_gain": 88.0,
+    "id": "18943536810",
+    "moving_time": 4652.0,
+    "name": "PoleSkier",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-16T07:23:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
