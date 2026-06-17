@@ -16955,6 +16955,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18943536810",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 7,
+      "name": "Zwift - 10/8/4min Threshold",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18957986894",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33344,6 +33353,15 @@
           "distance": 34364.2,
           "elevation_gain": 135.0,
           "moving_time": 3615.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18957986894"
+          ],
+          "count": 1,
+          "distance": 36043.8,
+          "elevation_gain": 147.0,
+          "moving_time": 3674.0
         }
       },
       "WeightTraining": {
@@ -33449,7 +33467,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:55:28.611424+00:00",
+  "generated_at": "2026-06-17T17:50:16.894700+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

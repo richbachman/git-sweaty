@@ -24490,5 +24490,18 @@
     "start_date_local": "2026-06-16T07:23:14Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 36043.8,
+    "elevation_gain": 147.0,
+    "id": "18957986894",
+    "moving_time": 3674.0,
+    "name": "Zwift - 10/8/4min Threshold",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-17T07:39:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
