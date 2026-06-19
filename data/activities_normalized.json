@@ -24503,5 +24503,18 @@
     "start_date_local": "2026-06-17T07:39:28Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-18",
+    "distance": 37331.8,
+    "elevation_gain": 217.0,
+    "id": "18979417523",
+    "moving_time": 5427.0,
+    "name": "Tacos&Beer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-18T17:49:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
