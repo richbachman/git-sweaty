@@ -24516,5 +24516,18 @@
     "start_date_local": "2026-06-18T17:49:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-19",
+    "distance": 62644.8,
+    "elevation_gain": 844.0,
+    "id": "18987340582",
+    "moving_time": 8641.0,
+    "name": "LilLookout",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-19T09:09:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
