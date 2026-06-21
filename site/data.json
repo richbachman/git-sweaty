@@ -16982,6 +16982,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18987340582",
       "year": 2026
+    },
+    {
+      "date": "2026-06-20",
+      "hour": 8,
+      "name": "Canyon Unlocked Group Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19001403878",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 7,
+      "name": "ShakeoutBeforeDrive",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19011511195",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32747,6 +32765,24 @@
           "distance": 62644.8,
           "elevation_gain": 844.0,
           "moving_time": 8641.0
+        },
+        "2026-06-20": {
+          "activity_ids": [
+            "19001403878"
+          ],
+          "count": 1,
+          "distance": 94683.0,
+          "elevation_gain": 1428.0,
+          "moving_time": 13524.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19011511195"
+          ],
+          "count": 1,
+          "distance": 35779.0,
+          "elevation_gain": 161.0,
+          "moving_time": 4619.0
         }
       },
       "VirtualRide": {
@@ -33503,7 +33539,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T16:22:18.265231+00:00",
+  "generated_at": "2026-06-21T16:46:54.421622+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
