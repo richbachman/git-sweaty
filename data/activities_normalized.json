@@ -24568,5 +24568,18 @@
     "start_date_local": "2026-06-22T07:59:54Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-23",
+    "distance": 35291.5,
+    "elevation_gain": 88.0,
+    "id": "19036016766",
+    "moving_time": 4775.0,
+    "name": "BackToFlats",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-23T07:29:06Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
