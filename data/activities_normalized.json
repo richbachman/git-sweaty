@@ -24581,5 +24581,31 @@
     "start_date_local": "2026-06-23T07:29:06Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-24",
+    "distance": 60477.4,
+    "elevation_gain": 113.0,
+    "id": "19056988270",
+    "moving_time": 8807.0,
+    "name": "IntervalsTacos&Beer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-24T17:59:51Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 32811.0,
+    "elevation_gain": 69.0,
+    "id": "19062110789",
+    "moving_time": 4530.0,
+    "name": "CalmBeforeStorms",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-25T07:37:27Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
