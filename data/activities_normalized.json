@@ -24607,5 +24607,18 @@
     "start_date_local": "2026-06-25T07:37:27Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 34473.1,
+    "elevation_gain": 42.0,
+    "id": "19074030092",
+    "moving_time": 4889.0,
+    "name": "CoffeeRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T06:46:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
