@@ -24646,5 +24646,18 @@
     "start_date_local": "2026-06-28T09:34:09Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 33036.3,
+    "elevation_gain": 86.0,
+    "id": "19123835332",
+    "moving_time": 4126.0,
+    "name": "MakeTheWindStop",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-30T07:27:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
