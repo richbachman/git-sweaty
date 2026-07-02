@@ -17072,6 +17072,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19123835332",
       "year": 2026
+    },
+    {
+      "date": "2026-07-01",
+      "hour": 17,
+      "name": "IntervalsPlusSome",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19144347119",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 7,
+      "name": "HappyPups",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19150585135",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32909,6 +32927,24 @@
           "distance": 33036.3,
           "elevation_gain": 86.0,
           "moving_time": 4126.0
+        },
+        "2026-07-01": {
+          "activity_ids": [
+            "19144347119"
+          ],
+          "count": 1,
+          "distance": 47020.4,
+          "elevation_gain": 107.0,
+          "moving_time": 6073.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19150585135"
+          ],
+          "count": 1,
+          "distance": 33022.3,
+          "elevation_gain": 76.0,
+          "moving_time": 4310.0
         }
       },
       "VirtualRide": {
@@ -33683,7 +33719,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:19:34.979664+00:00",
+  "generated_at": "2026-07-02T16:51:58.057102+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
