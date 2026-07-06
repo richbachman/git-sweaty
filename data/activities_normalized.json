@@ -24698,5 +24698,31 @@
     "start_date_local": "2026-07-03T06:48:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 65744.9,
+    "elevation_gain": 173.0,
+    "id": "19192177188",
+    "moving_time": 8094.0,
+    "name": "LilLizard",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-05T09:37:20Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19201046874",
+    "moving_time": 2614.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-06T07:45:15Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
