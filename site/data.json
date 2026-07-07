@@ -17117,6 +17117,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19201046874",
       "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 7,
+      "name": "Chill",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19214809055",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32990,6 +32999,15 @@
           "distance": 102102.0,
           "elevation_gain": 268.0,
           "moving_time": 13367.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19214809055"
+          ],
+          "count": 1,
+          "distance": 33047.1,
+          "elevation_gain": 67.0,
+          "moving_time": 4460.0
         }
       },
       "VirtualRide": {
@@ -33773,7 +33791,7 @@
       }
     }
   },
-  "generated_at": "2026-07-06T17:46:16.404480+00:00",
+  "generated_at": "2026-07-07T17:18:49.110714+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
