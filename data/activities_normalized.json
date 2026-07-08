@@ -24737,5 +24737,18 @@
     "start_date_local": "2026-07-07T07:23:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-08",
+    "distance": 36238.0,
+    "elevation_gain": 87.0,
+    "id": "19228892494",
+    "moving_time": 4499.0,
+    "name": "BusyTrails",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-08T07:17:03Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
