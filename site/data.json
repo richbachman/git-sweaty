@@ -17153,6 +17153,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19256186324",
       "year": 2026
+    },
+    {
+      "date": "2026-07-12",
+      "hour": 7,
+      "name": "LastPushBeforeTheRift",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19283848254",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32462,6 +32471,15 @@
           "distance": 65744.9,
           "elevation_gain": 173.0,
           "moving_time": 8094.0
+        },
+        "2026-07-12": {
+          "activity_ids": [
+            "19283848254"
+          ],
+          "count": 1,
+          "distance": 81564.0,
+          "elevation_gain": 282.0,
+          "moving_time": 10019.0
         }
       },
       "MountainBikeRide": {
@@ -33837,7 +33855,7 @@
       }
     }
   },
-  "generated_at": "2026-07-11T15:58:33.619695+00:00",
+  "generated_at": "2026-07-12T16:01:33.541890+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

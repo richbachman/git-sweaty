@@ -24776,5 +24776,18 @@
     "start_date_local": "2026-07-10T06:50:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 81564.0,
+    "elevation_gain": 282.0,
+    "id": "19283848254",
+    "moving_time": 10019.0,
+    "name": "LastPushBeforeTheRift",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-12T07:36:04Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
