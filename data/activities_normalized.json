@@ -24789,5 +24789,18 @@
     "start_date_local": "2026-07-12T07:36:04Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-14",
+    "distance": 27702.0,
+    "elevation_gain": 55.0,
+    "id": "19309213361",
+    "moving_time": 3443.0,
+    "name": "LittleOpeners",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-14T07:20:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
