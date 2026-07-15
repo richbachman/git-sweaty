@@ -24802,5 +24802,18 @@
     "start_date_local": "2026-07-14T07:20:41Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 28333.0,
+    "elevation_gain": 60.0,
+    "id": "19323840963",
+    "moving_time": 4107.0,
+    "name": "GearCheck",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-15T07:58:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
