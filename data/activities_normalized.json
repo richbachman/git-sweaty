@@ -24815,5 +24815,18 @@
     "start_date_local": "2026-07-15T07:58:43Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-17",
+    "distance": 40849.0,
+    "elevation_gain": 249.0,
+    "id": "19351921208",
+    "moving_time": 5868.0,
+    "name": "RiftShakeoutRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-17T14:04:30Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
