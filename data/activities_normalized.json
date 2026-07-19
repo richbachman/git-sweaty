@@ -24828,5 +24828,18 @@
     "start_date_local": "2026-07-17T14:04:30Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 194024.0,
+    "elevation_gain": 2373.0,
+    "id": "19366140275",
+    "moving_time": 33802.0,
+    "name": "TheRift!",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-18T07:30:23Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
