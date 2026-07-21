@@ -24841,5 +24841,18 @@
     "start_date_local": "2026-07-18T07:30:23Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 48664.0,
+    "elevation_gain": 379.0,
+    "id": "19403340362",
+    "moving_time": 7745.0,
+    "name": "EmbraceTheWeather",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-21T11:21:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
