@@ -24854,5 +24854,31 @@
     "start_date_local": "2026-07-21T11:21:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 48612.7,
+    "elevation_gain": 133.0,
+    "id": "19448133467",
+    "moving_time": 6379.0,
+    "name": "BackToFlats",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-24T10:15:56Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-25",
+    "distance": 35995.0,
+    "elevation_gain": 83.0,
+    "id": "19461306351",
+    "moving_time": 4782.0,
+    "name": "IsHot",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-25T09:37:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
