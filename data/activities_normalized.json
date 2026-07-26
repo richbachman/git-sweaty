@@ -24880,5 +24880,18 @@
     "start_date_local": "2026-07-25T09:37:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 81061.8,
+    "elevation_gain": 260.0,
+    "id": "19474443544",
+    "moving_time": 10338.0,
+    "name": "LilFoxBigSnake",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-26T07:17:38Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
