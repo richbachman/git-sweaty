@@ -24893,5 +24893,18 @@
     "start_date_local": "2026-07-26T07:17:38Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19485408958",
+    "moving_time": 2238.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-27T07:48:42Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
