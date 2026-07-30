@@ -24932,5 +24932,18 @@
     "start_date_local": "2026-07-29T07:11:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 32769.0,
+    "elevation_gain": 88.0,
+    "id": "19523541111",
+    "moving_time": 4847.0,
+    "name": "SweatyBeers",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-07-29T19:55:24Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
