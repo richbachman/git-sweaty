@@ -24945,5 +24945,18 @@
     "start_date_local": "2026-07-29T19:55:24Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-07-31",
+    "distance": 34724.3,
+    "elevation_gain": 57.0,
+    "id": "19542851041",
+    "moving_time": 4621.0,
+    "name": "CoffeeCrew",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-31T06:47:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
