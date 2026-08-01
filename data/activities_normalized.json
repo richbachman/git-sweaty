@@ -24958,5 +24958,18 @@
     "start_date_local": "2026-07-31T06:47:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-01",
+    "distance": 24439.6,
+    "elevation_gain": 65.0,
+    "id": "19557359147",
+    "moving_time": 3874.0,
+    "name": "WillRideForCoffee",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-01T08:26:51Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
