@@ -24997,5 +24997,18 @@
     "start_date_local": "2026-08-03T07:31:04Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 33057.7,
+    "elevation_gain": 64.0,
+    "id": "19597567341",
+    "moving_time": 4411.0,
+    "name": "TweakedBack",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-04T07:13:49Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
