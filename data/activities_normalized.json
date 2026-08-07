@@ -25010,5 +25010,31 @@
     "start_date_local": "2026-08-04T07:13:49Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-05",
+    "distance": 97841.5,
+    "elevation_gain": 401.0,
+    "id": "19621385201",
+    "moving_time": 13321.0,
+    "name": "SufficientFatigue&Beer",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-05T17:30:32Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19641794739",
+    "moving_time": 2712.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-07T08:55:12Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
