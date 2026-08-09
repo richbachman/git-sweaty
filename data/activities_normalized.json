@@ -25036,5 +25036,18 @@
     "start_date_local": "2026-08-07T08:55:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 60396.7,
+    "elevation_gain": 169.0,
+    "id": "19656987117",
+    "moving_time": 7779.0,
+    "name": "CutShort",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-08T08:58:41Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
