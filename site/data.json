@@ -17342,6 +17342,24 @@
       "type": "GravelRide",
       "url": "https://www.strava.com/activities/19656987117",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 6,
+      "name": "AirFryer",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19671461275",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-10",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19681286744",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32723,6 +32741,15 @@
           "distance": 60396.7,
           "elevation_gain": 169.0,
           "moving_time": 7779.0
+        },
+        "2026-08-09": {
+          "activity_ids": [
+            "19671461275"
+          ],
+          "count": 1,
+          "distance": 136461.0,
+          "elevation_gain": 611.0,
+          "moving_time": 17826.0
         }
       },
       "MountainBikeRide": {
@@ -34211,11 +34238,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2712.0
+        },
+        "2026-08-10": {
+          "activity_ids": [
+            "19681286744"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3122.0
         }
       }
     }
   },
-  "generated_at": "2026-08-09T15:34:22.242870+00:00",
+  "generated_at": "2026-08-10T16:01:38.702550+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

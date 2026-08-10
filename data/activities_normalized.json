@@ -25049,5 +25049,31 @@
     "start_date_local": "2026-08-08T08:58:41Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-09",
+    "distance": 136461.0,
+    "elevation_gain": 611.0,
+    "id": "19671461275",
+    "moving_time": 17826.0,
+    "name": "AirFryer",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-09T06:30:40Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19681286744",
+    "moving_time": 3122.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-10T07:35:41Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
