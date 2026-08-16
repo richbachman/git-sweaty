@@ -25127,5 +25127,18 @@
     "start_date_local": "2026-08-14T07:21:19Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-15",
+    "distance": 65325.0,
+    "elevation_gain": 175.0,
+    "id": "19754861512",
+    "moving_time": 8238.0,
+    "name": "Foxy",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-15T08:38:10Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
