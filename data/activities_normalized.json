@@ -25166,5 +25166,18 @@
     "start_date_local": "2026-08-17T07:57:57Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 32851.0,
+    "elevation_gain": 63.0,
+    "id": "19794083215",
+    "moving_time": 4285.0,
+    "name": "MowingDay",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-18T07:21:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
