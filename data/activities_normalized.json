@@ -25179,5 +25179,18 @@
     "start_date_local": "2026-08-18T07:21:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-19",
+    "distance": 41759.0,
+    "elevation_gain": 140.0,
+    "id": "19809379733",
+    "moving_time": 5256.0,
+    "name": "LilSprinkles",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-19T07:24:04Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
