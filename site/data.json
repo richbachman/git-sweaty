@@ -17441,6 +17441,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19809379733",
       "year": 2026
+    },
+    {
+      "date": "2026-08-19",
+      "hour": 20,
+      "name": "MoreMiles",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19818020142",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-20",
+      "hour": 7,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19823547476",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33570,12 +33588,13 @@
         },
         "2026-08-19": {
           "activity_ids": [
-            "19809379733"
+            "19809379733",
+            "19818020142"
           ],
-          "count": 1,
-          "distance": 41759.0,
-          "elevation_gain": 140.0,
-          "moving_time": 5256.0
+          "count": 2,
+          "distance": 73269.9,
+          "elevation_gain": 231.0,
+          "moving_time": 10066.0
         }
       },
       "VirtualRide": {
@@ -34409,11 +34428,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2866.0
+        },
+        "2026-08-20": {
+          "activity_ids": [
+            "19823547476"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2743.0
         }
       }
     }
   },
-  "generated_at": "2026-08-19T15:33:39.322864+00:00",
+  "generated_at": "2026-08-20T15:36:02.509151+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
