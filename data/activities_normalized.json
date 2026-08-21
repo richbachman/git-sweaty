@@ -25218,5 +25218,18 @@
     "start_date_local": "2026-08-20T07:24:30Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-08-21",
+    "distance": 34685.0,
+    "elevation_gain": 63.0,
+    "id": "19837407537",
+    "moving_time": 4831.0,
+    "name": "CoffeeRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-21T06:42:35Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
