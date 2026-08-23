@@ -25231,5 +25231,18 @@
     "start_date_local": "2026-08-21T06:42:35Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 171597.0,
+    "elevation_gain": 535.0,
+    "id": "19855795756",
+    "moving_time": 23570.0,
+    "name": "CinnamonRollCentury",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-22T06:16:20Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
