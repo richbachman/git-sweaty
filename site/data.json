@@ -17486,6 +17486,24 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/19879432989",
       "year": 2026
+    },
+    {
+      "date": "2026-08-26",
+      "hour": 18,
+      "name": "CruisersGravelGroup",
+      "subtype": "GravelRide",
+      "type": "GravelRide",
+      "url": "https://www.strava.com/activities/19916956562",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 6,
+      "name": "WakeUp",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19923015730",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -32912,6 +32930,15 @@
           "distance": 171597.0,
           "elevation_gain": 535.0,
           "moving_time": 23570.0
+        },
+        "2026-08-26": {
+          "activity_ids": [
+            "19916956562"
+          ],
+          "count": 1,
+          "distance": 42378.8,
+          "elevation_gain": 296.0,
+          "moving_time": 7080.0
         }
       },
       "MountainBikeRide": {
@@ -33649,6 +33676,15 @@
           "distance": 48947.0,
           "elevation_gain": 132.0,
           "moving_time": 6352.0
+        },
+        "2026-08-27": {
+          "activity_ids": [
+            "19923015730"
+          ],
+          "count": 1,
+          "distance": 34028.0,
+          "elevation_gain": 213.0,
+          "moving_time": 4103.0
         }
       },
       "VirtualRide": {
@@ -34495,7 +34531,7 @@
       }
     }
   },
-  "generated_at": "2026-08-26T16:19:45.797490+00:00",
+  "generated_at": "2026-08-28T00:17:42.259474+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

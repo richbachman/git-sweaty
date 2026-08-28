@@ -25257,5 +25257,31 @@
     "start_date_local": "2026-08-24T08:35:59Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-08-26",
+    "distance": 42378.8,
+    "elevation_gain": 296.0,
+    "id": "19916956562",
+    "moving_time": 7080.0,
+    "name": "CruisersGravelGroup",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-26T18:13:23Z",
+    "type": "GravelRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-27",
+    "distance": 34028.0,
+    "elevation_gain": 213.0,
+    "id": "19923015730",
+    "moving_time": 4103.0,
+    "name": "WakeUp",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-08-27T06:50:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
