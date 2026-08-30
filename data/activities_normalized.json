@@ -25296,5 +25296,18 @@
     "start_date_local": "2026-08-28T06:53:22Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-29",
+    "distance": 104774.0,
+    "elevation_gain": 2512.0,
+    "id": "19954844805",
+    "moving_time": 20864.0,
+    "name": "FarOutGravelDIY",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-08-29T08:17:43Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
