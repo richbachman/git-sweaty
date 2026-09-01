@@ -25322,5 +25322,18 @@
     "start_date_local": "2026-08-31T07:44:51Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-01",
+    "distance": 34216.4,
+    "elevation_gain": 76.0,
+    "id": "19990261470",
+    "moving_time": 4668.0,
+    "name": "MamaDeer",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-01T07:09:48Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
