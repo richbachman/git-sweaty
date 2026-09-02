@@ -25335,5 +25335,18 @@
     "start_date_local": "2026-09-01T07:09:48Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-02",
+    "distance": 48630.2,
+    "elevation_gain": 151.0,
+    "id": "20005741036",
+    "moving_time": 6537.0,
+    "name": "OffLeashDogFiesta",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-02T07:00:42Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
