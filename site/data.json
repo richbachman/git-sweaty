@@ -17576,6 +17576,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20050012442",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 9,
+      "name": "HeatDomeDay4081694",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20064063340",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -33811,6 +33820,15 @@
           "distance": 86673.0,
           "elevation_gain": 211.0,
           "moving_time": 11420.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20064063340"
+          ],
+          "count": 1,
+          "distance": 60596.1,
+          "elevation_gain": 167.0,
+          "moving_time": 7652.0
         }
       },
       "VirtualRide": {
@@ -34675,7 +34693,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T17:12:44.824739+00:00",
+  "generated_at": "2026-09-06T17:32:15.588062+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",

@@ -25387,5 +25387,18 @@
     "start_date_local": "2026-09-05T08:31:54Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-06",
+    "distance": 60596.1,
+    "elevation_gain": 167.0,
+    "id": "20064063340",
+    "moving_time": 7652.0,
+    "name": "HeatDomeDay4081694",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-06T09:19:24Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
