@@ -25400,5 +25400,18 @@
     "start_date_local": "2026-09-06T09:19:24Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 34065.3,
+    "elevation_gain": 81.0,
+    "id": "20088355372",
+    "moving_time": 4481.0,
+    "name": "CrapDrivers",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-08T07:30:38Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
