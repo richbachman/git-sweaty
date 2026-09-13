@@ -25459,10 +25459,23 @@
     "elevation_gain": 203.0,
     "id": "20147731050",
     "moving_time": 7863.0,
-    "name": "Morning Ride",
+    "name": "RedbudWindTunnel",
     "raw_activity_type": "Ride",
     "raw_type": "Ride",
     "start_date_local": "2026-09-12T10:17:02Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 88599.8,
+    "elevation_gain": 257.0,
+    "id": "20161856948",
+    "moving_time": 11313.0,
+    "name": "Rain delay",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-13T09:15:47Z",
     "type": "Ride",
     "year": 2026
   }

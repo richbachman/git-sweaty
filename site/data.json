@@ -17625,10 +17625,19 @@
     {
       "date": "2026-09-12",
       "hour": 10,
-      "name": "Morning Ride",
+      "name": "RedbudWindTunnel",
       "subtype": "Ride",
       "type": "Ride",
       "url": "https://www.strava.com/activities/20147731050",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-13",
+      "hour": 9,
+      "name": "Rain delay",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20161856948",
       "year": 2026
     }
   ],
@@ -33911,6 +33920,15 @@
           "distance": 61450.0,
           "elevation_gain": 203.0,
           "moving_time": 7863.0
+        },
+        "2026-09-13": {
+          "activity_ids": [
+            "20161856948"
+          ],
+          "count": 1,
+          "distance": 88599.8,
+          "elevation_gain": 257.0,
+          "moving_time": 11313.0
         }
       },
       "VirtualRide": {
@@ -34775,7 +34793,7 @@
       }
     }
   },
-  "generated_at": "2026-09-12T17:42:50.018812+00:00",
+  "generated_at": "2026-09-13T17:59:21.546387+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
