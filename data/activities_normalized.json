@@ -25504,5 +25504,18 @@
     "start_date_local": "2026-09-15T07:19:09Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-16",
+    "distance": 41919.0,
+    "elevation_gain": 127.0,
+    "id": "20200156254",
+    "moving_time": 5324.0,
+    "name": "BoilWaterNotice",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-16T07:21:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
