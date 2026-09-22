@@ -25569,5 +25569,18 @@
     "start_date_local": "2026-09-20T08:27:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-22",
+    "distance": 34234.0,
+    "elevation_gain": 74.0,
+    "id": "20281834753",
+    "moving_time": 4153.0,
+    "name": "Foggy",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-22T07:27:50Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
