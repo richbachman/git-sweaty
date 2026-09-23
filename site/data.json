@@ -17711,6 +17711,15 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/20281834753",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 17,
+      "name": "DoubleDip",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20290337558",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34049,12 +34058,13 @@
         },
         "2026-09-22": {
           "activity_ids": [
-            "20281834753"
+            "20281834753",
+            "20290337558"
           ],
-          "count": 1,
-          "distance": 34234.0,
-          "elevation_gain": 74.0,
-          "moving_time": 4153.0
+          "count": 2,
+          "distance": 114859.1,
+          "elevation_gain": 297.0,
+          "moving_time": 14186.0
         }
       },
       "VirtualRide": {
@@ -34937,7 +34947,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:35:59.281117+00:00",
+  "generated_at": "2026-09-23T18:54:41.948334+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
