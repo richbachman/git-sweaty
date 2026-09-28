@@ -17747,6 +17747,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20351851899",
       "year": 2026
+    },
+    {
+      "date": "2026-09-28",
+      "hour": 7,
+      "name": "Shakeout",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20364232829",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34092,6 +34101,15 @@
           "distance": 114859.1,
           "elevation_gain": 297.0,
           "moving_time": 14186.0
+        },
+        "2026-09-28": {
+          "activity_ids": [
+            "20364232829"
+          ],
+          "count": 1,
+          "distance": 34194.0,
+          "elevation_gain": 77.0,
+          "moving_time": 4314.0
         }
       },
       "VirtualRide": {
@@ -35003,7 +35021,7 @@
       }
     }
   },
-  "generated_at": "2026-09-27T18:56:04.253423+00:00",
+  "generated_at": "2026-09-28T21:07:21.580452+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
