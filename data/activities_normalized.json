@@ -25647,5 +25647,18 @@
     "start_date_local": "2026-09-28T07:27:25Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-29",
+    "distance": 38875.3,
+    "elevation_gain": 130.0,
+    "id": "20378381794",
+    "moving_time": 4785.0,
+    "name": "LastSecondPuncture",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-29T07:18:32Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
