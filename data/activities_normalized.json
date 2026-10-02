@@ -25686,5 +25686,18 @@
     "start_date_local": "2026-10-01T07:31:12Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-02",
+    "distance": 34617.4,
+    "elevation_gain": 70.0,
+    "id": "20420188839",
+    "moving_time": 4964.0,
+    "name": "CrispCoffee",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-02T06:45:53Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

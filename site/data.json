@@ -17783,6 +17783,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20406694071",
       "year": 2026
+    },
+    {
+      "date": "2026-10-02",
+      "hour": 6,
+      "name": "CrispCoffee",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20420188839",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -34155,6 +34164,15 @@
           "distance": 32974.1,
           "elevation_gain": 105.0,
           "moving_time": 4392.0
+        },
+        "2026-10-02": {
+          "activity_ids": [
+            "20420188839"
+          ],
+          "count": 1,
+          "distance": 34617.4,
+          "elevation_gain": 70.0,
+          "moving_time": 4964.0
         }
       },
       "VirtualRide": {
@@ -35075,7 +35093,7 @@
       }
     }
   },
-  "generated_at": "2026-10-01T20:11:46.523464+00:00",
+  "generated_at": "2026-10-02T19:48:34.832003+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
