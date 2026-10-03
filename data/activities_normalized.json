@@ -25699,5 +25699,18 @@
     "start_date_local": "2026-10-02T06:45:53Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-03",
+    "distance": 105207.0,
+    "elevation_gain": 423.0,
+    "id": "20437262721",
+    "moving_time": 13561.0,
+    "name": "TwoWeeksToMega",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-03T08:49:31Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
