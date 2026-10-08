@@ -25764,5 +25764,31 @@
     "start_date_local": "2026-10-07T07:23:35Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 28617.0,
+    "elevation_gain": 48.0,
+    "id": "20497552699",
+    "moving_time": 4164.0,
+    "name": "BoozeCruise",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-07T17:26:08Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20502427087",
+    "moving_time": 2958.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-08T07:30:24Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
