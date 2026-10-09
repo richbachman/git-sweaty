@@ -25790,5 +25790,18 @@
     "start_date_local": "2026-10-08T07:30:24Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 34617.0,
+    "elevation_gain": 53.0,
+    "id": "20515597736",
+    "moving_time": 5157.0,
+    "name": "BurntCoffee",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T06:46:07Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
