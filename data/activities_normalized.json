@@ -25803,5 +25803,18 @@
     "start_date_local": "2026-10-09T06:46:07Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 64729.0,
+    "elevation_gain": 204.0,
+    "id": "20531077053",
+    "moving_time": 8456.0,
+    "name": "JamieSighting",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-10T09:10:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
