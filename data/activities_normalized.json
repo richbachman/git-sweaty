@@ -25816,5 +25816,18 @@
     "start_date_local": "2026-10-10T09:10:52Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 86797.7,
+    "elevation_gain": 335.0,
+    "id": "20545632965",
+    "moving_time": 11484.0,
+    "name": "BensNBD",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-11T08:55:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
