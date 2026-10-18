@@ -25868,5 +25868,18 @@
     "start_date_local": "2026-10-15T07:42:38Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-17",
+    "distance": 486590.0,
+    "elevation_gain": 5448.0,
+    "id": "20638396924",
+    "moving_time": 83338.0,
+    "name": "MegaMidSouth 2026",
+    "raw_activity_type": "Ride",
+    "raw_type": "GravelRide",
+    "start_date_local": "2026-10-17T07:49:43Z",
+    "type": "GravelRide",
+    "year": 2026
   }
 ]
