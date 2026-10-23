@@ -25881,5 +25881,18 @@
     "start_date_local": "2026-10-17T07:49:43Z",
     "type": "GravelRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-22",
+    "distance": 17446.0,
+    "elevation_gain": 30.0,
+    "id": "20694368230",
+    "moving_time": 3094.0,
+    "name": "MegaRecovery",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-22T17:15:26Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
