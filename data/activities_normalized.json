@@ -25894,5 +25894,18 @@
     "start_date_local": "2026-10-22T17:15:26Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-24",
+    "distance": 42154.4,
+    "elevation_gain": 130.0,
+    "id": "20715213091",
+    "moving_time": 6021.0,
+    "name": "FeelingBetter",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-24T09:25:19Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
