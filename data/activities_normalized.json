@@ -25920,5 +25920,31 @@
     "start_date_local": "2026-10-26T07:36:42Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-27",
+    "distance": 34177.0,
+    "elevation_gain": 81.0,
+    "id": "20758275172",
+    "moving_time": 4546.0,
+    "name": "OnYourLeft",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-27T17:08:05Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 38897.5,
+    "elevation_gain": 130.0,
+    "id": "20765265053",
+    "moving_time": 5232.0,
+    "name": "Critters",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-28T07:21:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
