@@ -25946,5 +25946,31 @@
     "start_date_local": "2026-10-28T07:21:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 19091.0,
+    "elevation_gain": 61.0,
+    "id": "20773665632",
+    "moving_time": 4971.0,
+    "name": "HalloweenCruise",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-28T18:37:17Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20778433651",
+    "moving_time": 2894.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-10-29T07:39:55Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
