@@ -25972,5 +25972,18 @@
     "start_date_local": "2026-10-29T07:39:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 34530.4,
+    "elevation_gain": 51.0,
+    "id": "20791322781",
+    "moving_time": 5014.0,
+    "name": "DampCoffeeRide",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-30T06:47:17Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
