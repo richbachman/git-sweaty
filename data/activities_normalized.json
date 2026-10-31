@@ -25985,5 +25985,18 @@
     "start_date_local": "2026-10-30T06:47:17Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 48453.4,
+    "elevation_gain": 144.0,
+    "id": "20805674078",
+    "moving_time": 6100.0,
+    "name": "Sprinkles",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-31T08:32:16Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
