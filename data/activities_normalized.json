@@ -25998,5 +25998,18 @@
     "start_date_local": "2026-10-31T08:32:16Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-11-01",
+    "distance": 42930.0,
+    "elevation_gain": 94.0,
+    "id": "20820013077",
+    "moving_time": 5902.0,
+    "name": "B/KSighting",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-01T08:52:14Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
