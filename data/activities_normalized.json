@@ -26037,5 +26037,18 @@
     "start_date_local": "2026-11-03T07:40:23Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 40783.8,
+    "elevation_gain": 230.0,
+    "id": "20857372727",
+    "moving_time": 3853.0,
+    "name": "Zwift - Pacer Group Ride with Coco",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-04T07:41:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
