@@ -26115,5 +26115,18 @@
     "start_date_local": "2026-11-09T07:49:19Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-11-10",
+    "distance": 36928.4,
+    "elevation_gain": 164.0,
+    "id": "20934063054",
+    "moving_time": 4125.0,
+    "name": "Zwift - Pacer Group Ride with Miguel",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-10T07:42:34Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
