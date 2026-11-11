@@ -26128,5 +26128,18 @@
     "start_date_local": "2026-11-10T07:42:34Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-11",
+    "distance": 32439.5,
+    "elevation_gain": 102.0,
+    "id": "20950623372",
+    "moving_time": 4001.0,
+    "name": "GreatTempShitWind",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-11T11:31:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
