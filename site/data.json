@@ -18116,6 +18116,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20972986237",
       "year": 2026
+    },
+    {
+      "date": "2026-11-15",
+      "hour": 10,
+      "name": "Zwift - Pacer Group Ride with Coco",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21000979987",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -35384,6 +35393,15 @@
           "distance": 52825.3,
           "elevation_gain": 146.0,
           "moving_time": 5419.0
+        },
+        "2026-11-15": {
+          "activity_ids": [
+            "21000979987"
+          ],
+          "count": 1,
+          "distance": 68003.1,
+          "elevation_gain": 589.0,
+          "moving_time": 7214.0
         }
       },
       "WeightTraining": {
@@ -35725,7 +35743,7 @@
       }
     }
   },
-  "generated_at": "2026-11-14T19:47:49.741472+00:00",
+  "generated_at": "2026-11-15T20:13:07.526843+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/10303064",
   "repo": "richbachman/git-sweaty",
