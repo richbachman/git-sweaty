@@ -26284,5 +26284,18 @@
     "start_date_local": "2026-11-25T07:39:47Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 64739.3,
+    "elevation_gain": 223.0,
+    "id": "21135170054",
+    "moving_time": 8479.0,
+    "name": "ColdTurkey",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-11-26T10:06:39Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
